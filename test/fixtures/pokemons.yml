@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Pokemon_name: MyString
+  Pokemon_level: 1
+  PokemonTrainer_id: 1
+
+two:
+  Pokemon_name: MyString
+  Pokemon_level: 1
+  PokemonTrainer_id: 1
